@@ -1,0 +1,40 @@
+{
+  "name": "penta",
+  "version": "0.0.1",
+  "description": "Test framework for Node JS",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iobox/penta.git"
+  },
+  "keywords": [
+    "test",
+    "assert",
+    "async",
+    "node",
+    "nodejs",
+    "penta",
+    "iobox"
+  ],
+  "author": {
+    "name": "Long Do",
+    "email": "me@dotronglong.com",
+    "url": "http://dotronglong.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iobox/penta/issues"
+  },
+  "homepage": "https://github.com/iobox/penta#readme",
+  "engines" : {
+    "node" : ">=5.1.0"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+    "async": "^2.0.0",
+    "path": "^0.12.7"
+  }
+}
